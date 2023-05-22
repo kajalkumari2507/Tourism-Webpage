@@ -5,4 +5,6 @@
 ![Screenshot (461)](https://github.com/kajalkumari2507/Tourism-Webpage/assets/114283323/57af1d36-a15e-4095-abae-db4c90233774)
 ![Screenshot (463)](https://github.com/kajalkumari2507/Tourism-Webpage/assets/114283323/9447cf14-3b61-4081-bc81-65264619aaa5)
 # Tourism-Webpage
+## This Webpage is build uisng HTML, CSS, JavaScript
+### It is a front-end webpage where you can see a better UI of a web page showing various tourist places of Mumbai
 #### Webpage URL: https://kajalkumari2507.github.io/Tourism-Webpage/
